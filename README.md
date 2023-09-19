@@ -1,6 +1,18 @@
 ## run app
 npx expo start
 
+## Class 3
+
+## installations
+
+npm i @ui-kitten/components @eva-design/eva
+
+## UI Kitten
+
+Button
+
+Input
+
 # Safe Area
 
 ## Safe Areas
